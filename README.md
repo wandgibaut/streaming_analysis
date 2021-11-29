@@ -26,6 +26,8 @@ Histograma de número de titulos por ano de lançamentos na Disney+
 Histograma de número de titulos por ano de lançamentos no Hulu 
 
 
+Existem ainda um [notebook jupyter](./examples.ipynb) com alguns exemplos de uso de alguns métodos do módulo.
+
 
 
 Esse projeto consistiu em três partes: coleta dos csv com os dados e publicação [nesse repositório](https://github.com/wandgibaut/streamings_catalogues). A criação de uma API que lê esses dados e os disponibiza. Essa API está disponível [aqui](https://data-api-zeta.vercel.app/). A última parte é exatamente este repositório. Como minha idea foi criar algo legal que outras pessoas podem achar interessantes.
